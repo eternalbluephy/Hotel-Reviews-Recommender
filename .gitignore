@@ -2,4 +2,4 @@
 **/.vs
 **/.vscode
 **/test.py
-**/.log
+**/*.log
